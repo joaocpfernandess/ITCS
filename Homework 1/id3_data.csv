@@ -1,0 +1,15 @@
+ Body Temperature,Crowd at Office,Sense of taste,Mode of transport,Work at office 
+ > 38,Average,Abnormal,Public,No 
+ 37 - 38,High,Abnormal,Private,No 
+ < 37,High,Normal,Private,Yes 
+ 37 - 38,High,Abnormal,Public,No 
+ < 37,Average,Abnormal,Public,Yes 
+ < 37,High,Abnormal,Private,Yes 
+ 37 - 38,Average,Normal,Public,Yes 
+ > 38,Average,Abnormal,Private,Yes 
+ > 38,Average,Normal,Private,Yes 
+ > 38,Low,Normal,Private,Yes 
+ 37 - 38,Low,Normal,Private,Yes 
+ > 38,Low,Normal,Public,No 
+ 37 - 38,Average,Abnormal,Private,No 
+ < 37,Low,Normal,Public,Yes 
